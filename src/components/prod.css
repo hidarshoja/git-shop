@@ -1,0 +1,9 @@
+.shop{
+    width: 300px;
+    margin: 30px;
+    border: 3px solid rgb(86, 86, 86);
+    box-shadow: 3px 3px 7px 6px #333;
+}
+.shop img{
+    width: 100%;
+}
